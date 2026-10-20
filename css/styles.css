@@ -24,3 +24,5 @@ nav a:hover { text-decoration: underline; }
 /* ===== CONTACTO ===== */
 
 /* ===== FOOTER ===== */
+footer { background: #3e2723; color: #f5f0e6; text-align: center; padding: 1.5rem 1rem; margin-top: 3rem; }
+footer a { color: #ffcc80; }
